@@ -1,0 +1,8 @@
+
+Name :- kunal
+Round: 1
+You selected: stone
+Computer selected: stone
+Match Draw
+kunal Score: 0
+Computer Score: 0
