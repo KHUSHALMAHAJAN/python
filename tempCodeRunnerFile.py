@@ -1,2 +1,2 @@
-value = 2
-# switch_case_example(value)
+list.remove(1)
+# print(list)
