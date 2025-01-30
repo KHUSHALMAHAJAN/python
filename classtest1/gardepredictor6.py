@@ -9,4 +9,11 @@ for i in range(2):
     pre = int((ass_mark/100)*20)
     total_ass_mark += pre
 total = total_ass_mark + total_test_mark 
-if
+if(total>=80 and total<= 100):
+    print("you got 'A' grade")
+elif(total>=60 and total<=79):
+    print("you got 'B' grade")
+elif(total>= 40 and total<=59):
+    print("you got 'C'grade")
+else:
+    print("your Fail")

@@ -26,10 +26,10 @@ elif(total_squats < 30):
 else:
     print("you got doubble congratulatory squats")
 
-if(total_squats == 20):
+if(total_jumping_jack == 20):
     print("congratulatory you completed jumping jacks")
-elif(total_squats < 20):
-    remain = int((total_squats/20)*100)
+elif(total_jumping_jack < 20):
+    remain = int((total_jumping_jack/20)*100)
     print("your work is remain ",100 - remain,"%","jumping jacks")
 else:
     print("you got doubble congratulatory jumping jacks")
