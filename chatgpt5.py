@@ -1,0 +1,6 @@
+file = open(r"E:\github\python\ex.text","r")
+# read1 = file.readline()
+read2 = file.readlines()
+# print(read1)
+print()
+print(read2)
