@@ -1,12 +1,6 @@
-a = 0
-b = 1
-k = 0
-print(0)
-print(1)
+a,b = 0,1
 def fibonacci(n):
-    for i in range(0,n-2):
-       k = k+b
-       print(k)
-       k = b
-
-fibonacci(5)
+    global a,b
+    for i in range(0,n):
+        print(a)
+        a,b = b,a+b

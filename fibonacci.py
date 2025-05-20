@@ -1,0 +1,2 @@
+import fibonaccimodel
+fibonaccimodel.fibonacci(2)

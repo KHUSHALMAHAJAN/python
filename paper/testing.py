@@ -1,0 +1,4 @@
+import my_package
+import my_package.subpackage
+import my_package.subpackage.submadule1
+my_package.subpackage.submadule1.submodule1
